@@ -46,10 +46,10 @@
 
 ### 🌐 Où me trouver ?
 <p align="center">
-  <a href="https://linkedin.com/in/tonprofil">
+  <a href="https://www.linkedin.com/in/moncef-labidi-8253b1134/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ton-site.com">
+  <a href="https://acesoftware.fr">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
